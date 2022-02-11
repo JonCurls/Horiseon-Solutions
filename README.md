@@ -10,6 +10,9 @@ A webite that offers a range of website and social media service and solutions.
 ## Website
 https://joncurls.github.io/Challenge-Code-Refactor/
 
+## Thumbnail
+![Screenshot](assets/images/thumbnail.PNG)
+
 ## Contribution
 Made with ❤️ by Jonathan F.
 
