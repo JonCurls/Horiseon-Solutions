@@ -8,7 +8,7 @@ A webite that offers a range of website and social media service and solutions.
 * CSS
 
 ## Website
-https://joncurls.github.io/Challenge-Code-Refactor/
+https://joncurls.github.io/Horiseon-Solutions/
 
 ## Thumbnail
 ![Screenshot](assets/images/thumbnail.PNG)
